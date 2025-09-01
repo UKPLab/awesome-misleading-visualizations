@@ -1,4 +1,4 @@
-# Awesome misleading chart understanding
+# Awesome misleading visualizations
 A curated collection of papers, datasets, and resources on the topic of misleading visualizations and their interaction with AI research 📊🤖
 
 This field is growing fast, and we’ll keep this repo updated with the latest work 🔥.
