@@ -18,7 +18,7 @@ Don't hesitate to send us an e-mail or report an issue, if something is broken (
   - [QA Datasets](#qa-datasets)
 - [Misleading chart detection](#misleading-chart-detection)
   - [Detection papers](#detection-papers)
-    - [Rule-based Linters](#rule-based-linters)
+    - [Rule-based linters](#rule-based-linters)
     - [AI models](#ai-models)
   - [Detection datasets](#detection-datasets)
 - [Analyses and taxonomies](#analyses-and-taxonomies)
