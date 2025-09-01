@@ -13,19 +13,19 @@ Contact person: [Jonathan Tonglet](mailto:jonathan.tonglet@tu-darmstadt.de)
 Don't hesitate to send us an e-mail or report an issue, if something is broken (and it shouldn't be) or if you have further questions. 
 
 ## Table of Contents
-- [QA with misleading charts](#qa-with-misleading-charts)
+- [QA with misleading visualizations](#qa-with-misleading-visualizations)
   - [QA Papers](#qa-papers)
   - [QA Datasets](#qa-datasets)
-- [Misleading chart detection](#misleading-chart-detection)
+- [Misleading visualization detection](#misleading-visualization-detection)
   - [Detection papers](#detection-papers)
     - [Rule-based linters](#rule-based-linters)
     - [AI models](#ai-models)
   - [Detection datasets](#detection-datasets)
 - [Analyses and taxonomies](#analyses-and-taxonomies)
-- [Automated fact-checking with charts](#automated-fact-checking-with-charts)
+- [Automated fact-checking with visualizations](#automated-fact-checking-with-visualizations)
 
 
-## QA with misleading charts
+## QA with misleading visualizations
 
 The deceptive power of misleading visualizations has traditionally been studied through human subject experiments. More recently, researchers have begun testing AI models with similar setups to measure their vulnerability to misleading charts, and to design methods that make them more robust.
 
@@ -78,9 +78,9 @@ The deceptive power of misleading visualizations has traditionally been studied 
 | 2025 | **Misleading ChartQA** | arXiv | MCQ | [Link](https://arxiv.org/abs/2503.18172) | Soon | 
 | 2025 | **Mahbub et al.** | VIS | Likert-scale | [Link](https://arxiv.org/abs/2508.09716) | [Link](https://github.com/vis-nlp/visDeception) |
 
-## Misleading chart detection
+## Misleading visualization detection
 
-Other works introduce datasets and detection techniques aimed at identifying whether a chart is misleading, and identifying the specific issues it contains.
+Other works introduce datasets and detection techniques aimed at identifying whether a visualization is misleading, and identifying the specific issues it contains.
 
 ### Detection papers
 
@@ -107,8 +107,6 @@ Other works introduce datasets and detection techniques aimed at identifying whe
   _Tom Biselli, Katrin Hartwig, Niklas Kneissl, Louis Pouliot, Christian Reuter_. July 2025. <img src='https://img.shields.io/badge/DIS-2025-green'>
 
 #### AI models
-
-
 
 - [__Can GPT-4 Models Detect Misleading Visualizations?__](https://ieeexplore.ieee.org/abstract/document/10771149)
 
@@ -153,7 +151,7 @@ Other works introduce datasets and detection techniques aimed at identifying whe
 
 ## Analyses and taxonomies
 
-The following studies provide taxonomies of misleading charts and analyze their impact on web users.
+The following studies provide taxonomies of misleading visualizations and analyze their impact on web users.
 
 - [__Misinformed by Visualization: What Do We Learn From Misinformative Visualizations?__](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14559)
 
@@ -171,9 +169,9 @@ The following studies provide taxonomies of misleading charts and analyze their 
 
   _Xingyu Lan, Yu Liu_. January 2025. <img src='https://img.shields.io/badge/TVCG-2024-green'>
 
-## Automated fact-checking with charts
+## Automated fact-checking with visualizations
 
-Some works have explored scenarios where the charts are not deceiving. Instead, they are used as reliable evidence to detect false claims with automated fact-checking systems.
+Some works have explored scenarios where the visualizations are not deceiving. Instead, they are used as reliable evidence to detect false claims with automated fact-checking systems.
 
 - [__Reading and Reasoning over Chart Images for Evidence-based Automated Fact-Checking__](https://aclanthology.org/2023.findings-eacl.30/)
 
