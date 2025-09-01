@@ -27,7 +27,7 @@ Don't hesitate to send us an e-mail or report an issue, if something is broken (
 
 ## QA with misleading charts
 
-The deceiving potential of misleading visualizations has traditionally been evaluated in QA tasks on human subjects. The following works apply similar tests to AI models to assess their vulnerability to misleading charts and propose methods to mitigate this vulnerability.
+The deceptive power of misleading visualizations has traditionally been studied through human subject experiments. More recently, researchers have begun testing AI models with similar setups to measure their vulnerability to misleading charts, and to design methods that make them more robust.
 
 ### QA papers
 
@@ -80,7 +80,7 @@ The deceiving potential of misleading visualizations has traditionally been eval
 
 ## Misleading chart detection
 
-These works provide datasets and methods to detect whether a chart is misleading and which specific issues are present in the chart.
+Other works introduce datasets and detection techniques aimed at identifying whether a chart is misleading, and identifying the specific issues it contains.
 
 ### Detection papers
 
@@ -153,7 +153,7 @@ These works provide datasets and methods to detect whether a chart is misleading
 
 ## Analyses and taxonomies
 
-These works categorize misleading charts and analyze their impact on web users.
+The following studies provide taxonomies of misleading charts and analyze their impact on web users.
 
 - [__Misinformed by Visualization: What Do We Learn From Misinformative Visualizations?__](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14559)
 
