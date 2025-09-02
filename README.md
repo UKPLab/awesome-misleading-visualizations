@@ -1,4 +1,7 @@
 # Awesome misleading visualizations
+
+<img src='https://img.shields.io/badge/Last update-09/2025-green'>
+
 A curated collection of papers, datasets, and resources on the topic of misleading visualizations and their interaction with AI research 📊🤖
 
 This field is growing fast, and we’ll keep this repo updated with the latest work 🔥.
@@ -14,9 +17,9 @@ Don't hesitate to send us an e-mail or report an issue, if something is broken (
 
 ## Table of Contents
 - [QA with misleading visualizations](#qa-with-misleading-visualizations)
-  - [QA Papers](#qa-papers)
-  - [QA Datasets](#qa-datasets)
-- [Misleading visualization detection](#misleading-visualization-detection)
+  - [QA papers](#qa-papers)
+  - [QA datasets](#qa-datasets)
+- [Misleading visualization detection and correction](#misleading-visualization-detection-and-correction)
   - [Detection papers](#detection-papers)
     - [Rule-based linters](#rule-based-linters)
     - [AI models](#ai-models)
@@ -78,7 +81,7 @@ The deceptive power of misleading visualizations has traditionally been studied 
 | 2025 | **Misleading ChartQA** | arXiv | MCQ | [Link](https://arxiv.org/abs/2503.18172) | Soon | 
 | 2025 | **Mahbub et al.** | VIS | Likert-scale | [Link](https://arxiv.org/abs/2508.09716) | [Link](https://github.com/vis-nlp/visDeception) |
 
-## Misleading visualization detection
+## Misleading visualization detection and correction
 
 Other works introduce datasets and detection techniques aimed at identifying whether a visualization is misleading, and identifying the specific issues it contains.
 
@@ -127,6 +130,11 @@ Other works introduce datasets and detection techniques aimed at identifying whe
   _Konrad J. Maciborski, Karolina Wysocka, Karolina Żelazowska-Byczkowska, Styliani Kleanthous, Adam Wierzbicki_. July 2025. <img src='https://img.shields.io/badge/LNAI-2025-green'>
   <a href='https://osf.io/at3gd/files/osfstorage?view_only=ae8e153d84c14af1ad4d174b767e5c7c'><img src='https://img.shields.io/badge/code-blue'></a>
 
+- [__Automated Visualization Makeovers with LLMs__](https://arxiv.org/abs/2508.05637)
+
+  _Siddharth Gangwar, David A. Selby, Sebastian J. Vollmer_. July 2025. <img src='https://img.shields.io/badge/arXiv-2025-green'>
+  <a href='https://osf.io/4tb87'><img src='https://img.shields.io/badge/code-blue'></a>  
+
 - [__MisVisFix: An Interactive Dashboard for Detecting, Explaining, and Correcting Misleading Visualizations using Large Language Models__](https://arxiv.org/abs/2508.04679v1)
 
   _Amit Kumar Das, Klaus Mueller_. August 2025. <img src='https://img.shields.io/badge/VIS-2025-green'>
@@ -148,6 +156,12 @@ Other works introduce datasets and detection techniques aimed at identifying whe
 | 2025 | **Misvisfix** | VIS |  Real-world |  [Link](https://arxiv.org/abs/2508.04679v1) |  [Link](https://github.com/vhcailab/MisVisFix) |
 | 2025 | **Misviz** | arXiv  | Real-world | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://github.com/UKPLab/arxiv2025-misviz) | 
 | 2025 | **Misviz-synth** | arXiv  | Synthetic | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://github.com/UKPLab/arxiv2025-misviz) | 
+
+## Misleading visualization correction
+
+Other works propose methods to correct the code  and detection techniques aimed at identifying whether a visualization is misleading, and identifying the specific issues it contains.
+
+### Correction papers
 
 ## Analyses and taxonomies
 
