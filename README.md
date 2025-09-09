@@ -51,7 +51,7 @@ The deceptive power of misleading visualizations has traditionally been studied 
 
 - [__Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering__](https://arxiv.org/abs/2503.18172)
 
-  _Zixin Chen, Sicheng Song, Kashun Shum, Yanna Lin, Rui Sheng, Huamin Qu_. March 2025. <img src='https://img.shields.io/badge/arXiv-2025-green'>
+  _Zixin Chen, Sicheng Song, Kashun Shum, Yanna Lin, Rui Sheng, Huamin Qu_. March 2025. <img src='https://img.shields.io/badge/EMNLP-2025-green'>
 
 - [__Benchmarking Visual Language Models on Standardized Visualization Literacy Tests__](https://onlinelibrary.wiley.com/doi/10.1111/cgf.70137?af=R)
 
@@ -78,7 +78,7 @@ The deceptive power of misleading visualizations has traditionally been studied 
 | 2023 | **CALVI** | CHI | MCQ |  [Link](https://dl.acm.org/doi/10.1145/3544548.3581406) | [Link](https://github.com/UKPLab/arxiv2025-misleading-visualizations/tree/main)| 
 | 2025 | **CHARTOM** | arXiv | MCQ, free-text, rank | [Link](https://arxiv.org/abs/2408.14419v3) | Contact authors | 
 | 2025 | **Real-world** |arXiv | MCQ | [Link](https://arxiv.org/abs/2502.20503) | [Link](https://github.com/UKPLab/arxiv2025-misleading-visualizations)| 
-| 2025 | **Misleading ChartQA** | arXiv | MCQ | [Link](https://arxiv.org/abs/2503.18172) | Soon | 
+| 2025 | **Misleading ChartQA** | arXiv | MCQ | [Link](https://arxiv.org/abs/2503.18172) | [Link](https://github.com/CinderD/MisleadingChartQA) | 
 | 2025 | **Mahbub et al.** | VIS | Likert-scale | [Link](https://arxiv.org/abs/2508.09716) | [Link](https://github.com/vis-nlp/visDeception) |
 
 ## Misleading visualization detection and correction
