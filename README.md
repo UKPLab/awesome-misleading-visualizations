@@ -199,7 +199,7 @@ Some works have explored scenarios where the visualizations are not deceiving. I
 
 - [__ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts__](https://arxiv.org/abs/2506.08700)
 
-  _Ruiran Su, Jiasheng Si, Zhijiang Guo, Janet B. Pierrehumbert_. June 2025. <img src='https://img.shields.io/badge/arXiv-2025-green'>
+  _Ruiran Su, Jiasheng Si, Zhijiang Guo, Janet B. Pierrehumbert_. June 2025. <img src='https://img.shields.io/badge/EMNLP-2025-green'>
   <a href='https://github.com/Albasu120491/ClimateViz'><img src='https://img.shields.io/badge/code-blue'></a>
 
 
