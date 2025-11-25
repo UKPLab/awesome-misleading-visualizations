@@ -145,7 +145,7 @@ Other works introduce datasets and detection techniques aimed at identifying whe
   _Jonathan Tonglet, Jan Zimny, Tinne Tuytelaars, Iryna Gurevych_. August 2025. <img src='https://img.shields.io/badge/arXiv-2025-green'>
   <a href='https://github.com/UKPLab/arxiv2025-misviz'><img src='https://img.shields.io/badge/code-blue'></a>
 
-  - [__True (VIS) Lies: A Preliminary Analysis of How Generative AI is Capable of Recognizing Visualization Lies and their Rhetoric__](https://visxgenai.github.io/)
+- [__True (VIS) Lies: A Preliminary Analysis of How Generative AI is Capable of Recognizing Visualization Lies and their Rhetoric__](https://visxgenai.github.io/)
  
   _Graziano Blasilli, Marco Angelini_. November 2025. <img src='https://img.shields.io/badge/VISxGenAI-2025-green'>
   <a href='https://github.com/blasilli/TrueVISLies'><img src='https://img.shields.io/badge/code-blue'></a>
@@ -154,20 +154,12 @@ Other works introduce datasets and detection techniques aimed at identifying whe
 
 | Year | Title | Venue | Type |  Paper | Dataset | 
 | --- | --- |  --- |  --- |   --- | --- | 
-| 2024 | **Alexander et al.**  |  VIS  | Real-world | [Link](https://ieeexplore.ieee.org/abstract/document/10771149) | -  |
-| 2024 | **Lo et al.** |  TVCG |   Real-world |  [Link](https://dl.acm.org/doi/abs/10.1109/TVCG.2024.3456333) | - |
 | 2024 | **MISCHA-QA** | - | Synthetic |  - |  [Link](https://huggingface.co/datasets/chart-misinformation-detection/MISCHA-QA) |
 | 2025 | **DCDM**  | LNAI | Synthetic |  [Link](https://link.springer.com/chapter/10.1007/978-3-031-98414-3_7) |  [Link](https://osf.io/at3gd/files/osfstorage?view_only=ae8e153d84c14af1ad4d174b767e5c7c) |
 | 2025 | **Misvisfix** | VIS |  Real-world |  [Link](https://arxiv.org/abs/2508.04679v1) |  [Link](https://github.com/vhcailab/MisVisFix) |
 | 2025 | **Misviz** | arXiv  | Real-world | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://github.com/UKPLab/arxiv2025-misviz) | 
 | 2025 | **Misviz-synth** | arXiv  | Synthetic | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://github.com/UKPLab/arxiv2025-misviz) | 
 | 2025 | **TrueVISLies** | VISxGenAI workshop | Real-world |[Link](https://visxgenai.github.io/) | [Link](https://github.com/blasilli/TrueVISLies) |
-
-## Misleading visualization correction
-
-Other works propose methods to correct the code  and detection techniques aimed at identifying whether a visualization is misleading, and identifying the specific issues it contains.
-
-### Correction papers
 
 ## Analyses and taxonomies
 
