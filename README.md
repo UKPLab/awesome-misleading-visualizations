@@ -148,7 +148,6 @@ Other works introduce datasets and detection techniques aimed at identifying whe
 - [__True (VIS) Lies: A Preliminary Analysis of How Generative AI is Capable of Recognizing Visualization Lies and their Rhetoric__](https://visxgenai.github.io/)
  
   _Graziano Blasilli, Marco Angelini_. November 2025. <img src='https://img.shields.io/badge/VISxGenAI-2025-green'>
-  <a href='https://github.com/blasilli/TrueVISLies'><img src='https://img.shields.io/badge/code-blue'></a>
 
 ### Detection datasets
 
@@ -159,7 +158,6 @@ Other works introduce datasets and detection techniques aimed at identifying whe
 | 2025 | **Misvisfix** | VIS |  Real-world |  [Link](https://arxiv.org/abs/2508.04679v1) |  [Link](https://github.com/vhcailab/MisVisFix) |
 | 2025 | **Misviz** | arXiv  | Real-world | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://github.com/UKPLab/arxiv2025-misviz) | 
 | 2025 | **Misviz-synth** | arXiv  | Synthetic | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://github.com/UKPLab/arxiv2025-misviz) | 
-| 2025 | **TrueVISLies** | VISxGenAI workshop | Real-world |[Link](https://visxgenai.github.io/) | [Link](https://github.com/blasilli/TrueVISLies) |
 
 ## Analyses and taxonomies
 
