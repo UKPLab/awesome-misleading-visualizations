@@ -159,6 +159,15 @@ Other works introduce datasets and detection techniques aimed at identifying whe
 | 2025 | **Misviz** | arXiv  | Real-world | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://github.com/UKPLab/arxiv2025-misviz) | 
 | 2025 | **Misviz-synth** | arXiv  | Synthetic | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://github.com/UKPLab/arxiv2025-misviz) | 
 
+## Detecting visualization tampering
+
+Other works introduce datasets and detection techniques aimed at detecting visual edits directly applied to the chart's image.
+
+- [__VizDefender: Unmasking Visualization Tampering through Proactive Localization and Intent Inference__](https://arxiv.org/abs/2512.18853)
+
+_Sicheng Song, Yanjie Zhang, Zixin Chen, Huamin Qu, Changbo Wang, Chenhui Li_. December 2025. <img src='https://img.shields.io/badge/TVCG-2026-green'>
+
+
 ## Analyses and taxonomies
 
 The following studies provide taxonomies of misleading visualizations and analyze their impact on web users.
