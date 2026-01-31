@@ -13,7 +13,7 @@ Contact person: [Jonathan Tonglet](mailto:jonathan.tonglet@tu-darmstadt.de)
 
 [UKP Lab](https://www.ukp.tu-darmstadt.de/) | [TU Darmstadt](https://www.tu-darmstadt.de/)
 
-Don't hesitate to send us an e-mail or report an issue, if something is broken (and it shouldn't be) or if you have further questions. 
+Don't hesitate to email us or report an issue if something is broken (and it shouldn't be) or if you have further questions. 
 
 ## Table of Contents
 - [QA with misleading visualizations](#qa-with-misleading-visualizations)
@@ -68,6 +68,12 @@ The deceptive power of misleading visualizations has traditionally been studied 
  <a href='https://github.com/vis-nlp/visDeception'><img src='https://img.shields.io/badge/code-blue'></a>
 
 
+ - [__ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation__](https://www.arxiv.org/abs/2601.12983)
+
+  _Jesus-Germán Ortiz-Barajas, Jonathan Tonglet, Vivek Gupta, Iryna Gurevych_. January 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
+ <a href='https://github.com/insait-institute/chartAttack'><img src='https://img.shields.io/badge/code-blue'></a>
+
+
 
 ### QA datasets
 
@@ -80,6 +86,7 @@ The deceptive power of misleading visualizations has traditionally been studied 
 | 2025 | **Real-world** |arXiv | MCQ | [Link](https://arxiv.org/abs/2502.20503) | [Link](https://github.com/UKPLab/arxiv2025-misleading-visualizations)| 
 | 2025 | **Misleading ChartQA** | EMNLP | MCQ | [Link](https://arxiv.org/abs/2503.18172) | [Link](https://github.com/CinderD/MisleadingChartQA) | 
 | 2025 | **Mahbub et al.** | VIS | Likert-scale | [Link](https://arxiv.org/abs/2508.09716) | [Link](https://github.com/vis-nlp/visDeception) |
+| 2026 | **AttackViz** | arXiv | Free-text |[Link](https://www.arxiv.org/abs/2601.12983) | [Link](https://github.com/insait-institute/chartAttack) |
 
 ## Misleading visualization detection and correction
 
@@ -161,7 +168,7 @@ Other works introduce datasets and detection techniques aimed at identifying whe
 
 ## Detecting visualization tampering
 
-Other works introduce datasets and detection techniques aimed at detecting visual edits directly applied to the chart's image.
+Other works introduce datasets and detection techniques for detecting visual edits directly applied to the chart image.
 
 - [__VizDefender: Unmasking Visualization Tampering through Proactive Localization and Intent Inference__](https://arxiv.org/abs/2512.18853)
 
@@ -190,7 +197,7 @@ The following studies provide taxonomies of misleading visualizations and analyz
 
 ## Automated fact-checking with visualizations
 
-Some works have explored scenarios where the visualizations are not deceiving. Instead, they are used as reliable evidence to detect false claims with automated fact-checking systems.
+Some works have explored scenarios in which visualizations are not deceptive. Instead, they are used as reliable evidence to detect false claims with automated fact-checking systems.
 
 - [__Reading and Reasoning over Chart Images for Evidence-based Automated Fact-Checking__](https://aclanthology.org/2023.findings-eacl.30/)
 
