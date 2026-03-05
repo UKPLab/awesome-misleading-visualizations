@@ -151,6 +151,7 @@ Other works introduce datasets and detection techniques aimed at identifying whe
 
   _Jonathan Tonglet, Jan Zimny, Tinne Tuytelaars, Iryna Gurevych_. August 2025. <img src='https://img.shields.io/badge/arXiv-2025-green'>
   <a href='https://github.com/UKPLab/arxiv2025-misviz'><img src='https://img.shields.io/badge/code-blue'></a>
+    <a href='https://huggingface.co/datasets/UKPLab/misviz'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
 
 - [__True (VIS) Lies: A Preliminary Analysis of How Generative AI is Capable of Recognizing Visualization Lies and their Rhetoric__](https://visxgenai.github.io/)
  
