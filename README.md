@@ -1,6 +1,6 @@
 # Awesome misleading visualizations
 
-<img src='https://img.shields.io/badge/Last update-09/2025-green'>
+<img src='https://img.shields.io/badge/Last update-03/2026-green'>
 
 A curated collection of papers, datasets, and resources on the topic of misleading visualizations and their interaction with AI research 📊🤖
 
