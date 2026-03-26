@@ -157,6 +157,13 @@ Other works introduce datasets and detection techniques aimed at identifying whe
  
   _Graziano Blasilli, Marco Angelini_. November 2025. <img src='https://img.shields.io/badge/VISxGenAI-2025-green'>
 
+- [__When Visuals Aren’t the Problem: Evaluating Vision-Language Models on
+Misleading Data Visualizations__](https://arxiv.org/abs/2603.22368)
+
+  _Harsh Nishant Lalai, Raj Sanjay Shah, Hanspeter Pfister, Sashank Varma, Grace Guo_. March 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
+    <a href='https://huggingface.co/datasets/HarvardVCG/MisVisBench'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
+  
+
 ### Detection datasets
 
 | Year | Title | Venue | Type |  Paper | Dataset | 
@@ -164,8 +171,9 @@ Other works introduce datasets and detection techniques aimed at identifying whe
 | 2024 | **MISCHA-QA** | - | Synthetic |  - |  [Link](https://huggingface.co/datasets/chart-misinformation-detection/MISCHA-QA) |
 | 2025 | **DCDM**  | LNAI | Synthetic |  [Link](https://link.springer.com/chapter/10.1007/978-3-031-98414-3_7) |  [Link](https://osf.io/at3gd/files/osfstorage?view_only=ae8e153d84c14af1ad4d174b767e5c7c) |
 | 2025 | **Misvisfix** | VIS |  Real-world |  [Link](https://arxiv.org/abs/2508.04679v1) |  [Link](https://github.com/vhcailab/MisVisFix) |
-| 2025 | **Misviz** | arXiv  | Real-world | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://github.com/UKPLab/arxiv2025-misviz) | 
-| 2025 | **Misviz-synth** | arXiv  | Synthetic | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://github.com/UKPLab/arxiv2025-misviz) | 
+| 2025 | **Misviz** | arXiv  | Real-world | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://huggingface.co/datasets/UKPLab/misviz) | 
+| 2025 | **Misviz-synth** | arXiv  | Synthetic | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://tudatalib.ulb.tu-darmstadt.de/items/21f65047-c4d8-45a2-a717-e76f63dd0c33) | 
+| 2026 | **MisVisBench** | arXiv | Real-world | [Link](https://arxiv.org/abs/2603.22368) | [Link](https://huggingface.co/datasets/HarvardVCG/MisVisBench) |
 
 ## Detecting visualization tampering
 
