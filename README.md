@@ -74,6 +74,11 @@ The deceptive power of misleading visualizations has traditionally been studied 
  <a href='https://github.com/insait-institute/chartAttack'><img src='https://img.shields.io/badge/code-blue'></a>
 
 
+ - [__Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering__](https://arxiv.org/abs/2603.28583)
+
+  _Yanjie Zhang, Yafei Li, Rui Sheng, Zixin Chen, Yanna Lin, Huamin Qu, Lei Chen, Yushi Sun_. March 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
+
+
 
 ### QA datasets
 
