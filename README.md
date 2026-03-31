@@ -52,6 +52,7 @@ The deceptive power of misleading visualizations has traditionally been studied 
 - [__Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering__](https://arxiv.org/abs/2503.18172)
 
   _Zixin Chen, Sicheng Song, Kashun Shum, Yanna Lin, Rui Sheng, Huamin Qu_. March 2025. <img src='https://img.shields.io/badge/EMNLP-2025-green'>
+  <a href='[https://github.com/insait-institute/chartAttack](https://github.com/CinderD/MisleadingChartQA)'><img src='https://img.shields.io/badge/code-blue'></a>
 
 - [__Benchmarking Visual Language Models on Standardized Visualization Literacy Tests__](https://onlinelibrary.wiley.com/doi/10.1111/cgf.70137?af=R)
 
