@@ -30,7 +30,7 @@ Don't hesitate to email us or report an issue if something is broken (and it sho
 
 ## QA with misleading visualizations
 
-The deceptive power of misleading visualizations has traditionally been studied through human subject experiments. More recently, researchers have begun testing AI models with similar setups to measure their vulnerability to misleading charts, and to design methods that make them more robust.
+The deceptive power of misleading visualizations has traditionally been studied through human subject experiments. More recently, researchers have begun testing AI models with similar setups to measure their vulnerability to misleading charts and to design methods that make them more robust.
 
 ### QA papers
 
@@ -52,7 +52,7 @@ The deceptive power of misleading visualizations has traditionally been studied 
 - [__Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering__](https://arxiv.org/abs/2503.18172)
 
   _Zixin Chen, Sicheng Song, Kashun Shum, Yanna Lin, Rui Sheng, Huamin Qu_. March 2025. <img src='https://img.shields.io/badge/EMNLP-2025-green'>
-  <a href='[https://github.com/insait-institute/chartAttack](https://github.com/CinderD/MisleadingChartQA)'><img src='https://img.shields.io/badge/code-blue'></a>
+  <a href='https://github.com/CinderD/MisleadingChartQA'><img src='https://img.shields.io/badge/code-blue'></a>
 
 - [__Benchmarking Visual Language Models on Standardized Visualization Literacy Tests__](https://onlinelibrary.wiley.com/doi/10.1111/cgf.70137?af=R)
 
@@ -87,7 +87,7 @@ The deceptive power of misleading visualizations has traditionally been studied 
 | --- | --- |  --- |  --- | --- | --- | 
 | 2015 | **Pandey et al.** | CHI | Likert-scale, MCQ | [Link](https://dl.acm.org/doi/10.1145/2702123.2702608) | - |
 | 2020 | **Lauer et O'Brien** | SIGDOC |  Likert-scale | [Link](https://dl.acm.org/doi/10.1145/3380851.3416762) |  [Link](https://github.com/UKPLab/arxiv2025-misleading-visualizations) |
-| 2023 | **CALVI** | CHI | MCQ |  [Link](https://dl.acm.org/doi/10.1145/3544548.3581406) | [Link](https://github.com/UKPLab/arxiv2025-misleading-visualizations/tree/main)| 
+| 2023 | **CALVI** | CHI | MCQ |  [Link](https://dl.acm.org/doi/10.1145/3544548.3581406) | [Link](https://github.com/UKPLab/arxiv2025-misleading-visualizations)| 
 | 2025 | **CHARTOM** | arXiv | MCQ, free-text, rank | [Link](https://arxiv.org/abs/2408.14419v3) | Contact authors | 
 | 2025 | **Real-world** |arXiv | MCQ | [Link](https://arxiv.org/abs/2502.20503) | [Link](https://github.com/UKPLab/arxiv2025-misleading-visualizations)| 
 | 2025 | **Misleading ChartQA** | EMNLP | MCQ | [Link](https://arxiv.org/abs/2503.18172) | [Link](https://github.com/CinderD/MisleadingChartQA) | 
@@ -159,9 +159,6 @@ Other works introduce datasets and detection techniques aimed at identifying whe
   <a href='https://github.com/UKPLab/arxiv2025-misviz'><img src='https://img.shields.io/badge/code-blue'></a>
     <a href='https://huggingface.co/datasets/UKPLab/misviz'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
 
-- [__True (VIS) Lies: A Preliminary Analysis of How Generative AI is Capable of Recognizing Visualization Lies and their Rhetoric__](https://visxgenai.github.io/)
- 
-  _Graziano Blasilli, Marco Angelini_. November 2025. <img src='https://img.shields.io/badge/VISxGenAI-2025-green'>
 
 - [__When Visuals Aren’t the Problem: Evaluating Vision-Language Models on
 Misleading Data Visualizations__](https://arxiv.org/abs/2603.22368)
@@ -169,7 +166,12 @@ Misleading Data Visualizations__](https://arxiv.org/abs/2603.22368)
   _Harsh Nishant Lalai, Raj Sanjay Shah, Hanspeter Pfister, Sashank Varma, Grace Guo_. March 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
     <a href='https://huggingface.co/datasets/HarvardVCG/MisVisBench'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
   
+-  [__True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies__](https://arxiv.org/abs/2604.01181)
 
+  _Graziano Blasilli, Marco Angelini_. April 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
+  <a href='https://github.com/XAIber-lab/truevislies'><img src='https://img.shields.io/badge/code-blue'></a>
+
+  
 ### Detection datasets
 
 | Year | Title | Venue | Type |  Paper | Dataset | 
@@ -180,6 +182,7 @@ Misleading Data Visualizations__](https://arxiv.org/abs/2603.22368)
 | 2025 | **Misviz** | arXiv  | Real-world | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://huggingface.co/datasets/UKPLab/misviz) | 
 | 2025 | **Misviz-synth** | arXiv  | Synthetic | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://tudatalib.ulb.tu-darmstadt.de/items/21f65047-c4d8-45a2-a717-e76f63dd0c33) | 
 | 2026 | **MisVisBench** | arXiv | Real-world | [Link](https://arxiv.org/abs/2603.22368) | [Link](https://huggingface.co/datasets/HarvardVCG/MisVisBench) |
+| 2026 | **True (VIS) Lies** |arXiv | Real-world | [Link](https://arxiv.org/abs/2604.01181) | [Link](https://github.com/XAIber-lab/truevislies) |
 
 ## Detecting visualization tampering
 
@@ -187,7 +190,7 @@ Other works introduce datasets and detection techniques for detecting visual edi
 
 - [__VizDefender: Unmasking Visualization Tampering through Proactive Localization and Intent Inference__](https://arxiv.org/abs/2512.18853)
 
-_Sicheng Song, Yanjie Zhang, Zixin Chen, Huamin Qu, Changbo Wang, Chenhui Li_. December 2025. <img src='https://img.shields.io/badge/TVCG-2026-green'>
+  _Sicheng Song, Yanjie Zhang, Zixin Chen, Huamin Qu, Changbo Wang, Chenhui Li_. December 2025. <img src='https://img.shields.io/badge/TVCG-2026-green'>
 
 
 ## Analyses and taxonomies
@@ -221,7 +224,7 @@ Some works have explored scenarios in which visualizations are not deceptive. In
 
 - [__ChartCheck: Explainable Fact-Checking over Real-World Chart Images__](https://aclanthology.org/2024.findings-acl.828/)
 
-  _Mubashara Akhtar, Nikesh Subedi, Vivek Gupta, Sahar Tahmasebi, Oana Cocarascu, Elena Simperl_. AUgust 2024. <img src='https://img.shields.io/badge/ACL Findings-2024-green'>
+  _Mubashara Akhtar, Nikesh Subedi, Vivek Gupta, Sahar Tahmasebi, Oana Cocarascu, Elena Simperl_. August 2024. <img src='https://img.shields.io/badge/ACL Findings-2024-green'>
   <a href='https://aclanthology.org/2024.findings-acl.828/'><img src='https://img.shields.io/badge/code-blue'></a>
 
 - [__ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts__](https://arxiv.org/abs/2506.08700)
