@@ -46,8 +46,8 @@ The deceptive power of misleading visualizations has traditionally been studied 
 
 - [__Protecting multimodal large language models against misleading visualizations__](https://arxiv.org/abs/2502.20503)
 
-  _Jonathan Tonglet, Tinne Tuytelaars, Marie-Francine Moens, Iryna Gurevych_. February 2025. <img src='https://img.shields.io/badge/arXiv-2025-green'>
-  <a href='https://github.com/UKPLab/arxiv2025-misleading-visualizations'><img src='https://img.shields.io/badge/code-blue'></a>
+  _Jonathan Tonglet, Tinne Tuytelaars, Marie-Francine Moens, Iryna Gurevych_. February 2025. <img src='https://img.shields.io/badge/ACL-2026-green'>
+  <a href='https://github.com/UKPLab/acl2025-misleading-visualizations'><img src='https://img.shields.io/badge/code-blue'></a>
 
 - [__Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering__](https://arxiv.org/abs/2503.18172)
 
@@ -89,7 +89,7 @@ The deceptive power of misleading visualizations has traditionally been studied 
 | 2020 | **Lauer et O'Brien** | SIGDOC |  Likert-scale | [Link](https://dl.acm.org/doi/10.1145/3380851.3416762) |  [Link](https://github.com/UKPLab/arxiv2025-misleading-visualizations) |
 | 2023 | **CALVI** | CHI | MCQ |  [Link](https://dl.acm.org/doi/10.1145/3544548.3581406) | [Link](https://github.com/UKPLab/arxiv2025-misleading-visualizations)| 
 | 2025 | **CHARTOM** | arXiv | MCQ, free-text, rank | [Link](https://arxiv.org/abs/2408.14419v3) | Contact authors | 
-| 2025 | **Real-world** |arXiv | MCQ | [Link](https://arxiv.org/abs/2502.20503) | [Link](https://github.com/UKPLab/arxiv2025-misleading-visualizations)| 
+| 2025 | **Real-world** | ACL | MCQ | [Link](https://arxiv.org/abs/2502.20503) | [Link](https://github.com/UKPLab/arxiv2025-misleading-visualizations)| 
 | 2025 | **Misleading ChartQA** | EMNLP | MCQ | [Link](https://arxiv.org/abs/2503.18172) | [Link](https://github.com/CinderD/MisleadingChartQA) | 
 | 2025 | **Mahbub et al.** | VIS | Likert-scale | [Link](https://arxiv.org/abs/2508.09716) | [Link](https://github.com/vis-nlp/visDeception) |
 | 2026 | **AttackViz** | arXiv | Free-text |[Link](https://www.arxiv.org/abs/2601.12983) | [Link](https://github.com/insait-institute/chartAttack) |
@@ -155,8 +155,8 @@ Other works introduce datasets and detection techniques aimed at identifying whe
 
 - [__Is this chart lying to me? Automating the detection of misleading visualizations__](https://arxiv.org/abs/2508.21675)
 
-  _Jonathan Tonglet, Jan Zimny, Tinne Tuytelaars, Iryna Gurevych_. August 2025. <img src='https://img.shields.io/badge/arXiv-2025-green'>
-  <a href='https://github.com/UKPLab/arxiv2025-misviz'><img src='https://img.shields.io/badge/code-blue'></a>
+  _Jonathan Tonglet, Jan Zimny, Tinne Tuytelaars, Iryna Gurevych_. August 2025. <img src='https://img.shields.io/badge/ACL-2026-green'>
+  <a href='https://github.com/UKPLab/acl2025-misviz'><img src='https://img.shields.io/badge/code-blue'></a>
     <a href='https://huggingface.co/datasets/UKPLab/misviz'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
 
 
@@ -179,8 +179,8 @@ Misleading Data Visualizations__](https://arxiv.org/abs/2603.22368)
 | 2024 | **MISCHA-QA** | - | Synthetic |  - |  [Link](https://huggingface.co/datasets/chart-misinformation-detection/MISCHA-QA) |
 | 2025 | **DCDM**  | LNAI | Synthetic |  [Link](https://link.springer.com/chapter/10.1007/978-3-031-98414-3_7) |  [Link](https://osf.io/at3gd/files/osfstorage?view_only=ae8e153d84c14af1ad4d174b767e5c7c) |
 | 2025 | **Misvisfix** | VIS |  Real-world |  [Link](https://arxiv.org/abs/2508.04679v1) |  [Link](https://github.com/vhcailab/MisVisFix) |
-| 2025 | **Misviz** | arXiv  | Real-world | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://huggingface.co/datasets/UKPLab/misviz) | 
-| 2025 | **Misviz-synth** | arXiv  | Synthetic | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://tudatalib.ulb.tu-darmstadt.de/items/21f65047-c4d8-45a2-a717-e76f63dd0c33) | 
+| 2025 | **Misviz** | ACL | Real-world | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://huggingface.co/datasets/UKPLab/misviz) | 
+| 2025 | **Misviz-synth** | ACL  | Synthetic | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://tudatalib.ulb.tu-darmstadt.de/items/21f65047-c4d8-45a2-a717-e76f63dd0c33) | 
 | 2026 | **MisVisBench** | arXiv | Real-world | [Link](https://arxiv.org/abs/2603.22368) | [Link](https://huggingface.co/datasets/HarvardVCG/MisVisBench) |
 | 2026 | **True (VIS) Lies** |arXiv | Real-world | [Link](https://arxiv.org/abs/2604.01181) | [Link](https://github.com/XAIber-lab/truevislies) |
 
