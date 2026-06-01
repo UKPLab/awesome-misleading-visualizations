@@ -1,4 +1,4 @@
-<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/b9d01b86-7027-49d8-b2d7-d0f222e812e5" /># Awesome misleading visualizations
+# Awesome misleading visualizations
 
 <img src='https://img.shields.io/badge/Last update-03/2026-green'>
 
