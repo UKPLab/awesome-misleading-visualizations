@@ -1,4 +1,4 @@
-# Awesome misleading visualizations
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/b9d01b86-7027-49d8-b2d7-d0f222e812e5" /># Awesome misleading visualizations
 
 <img src='https://img.shields.io/badge/Last update-03/2026-green'>
 
@@ -171,6 +171,11 @@ Misleading Data Visualizations__](https://arxiv.org/abs/2603.22368)
   _Graziano Blasilli, Marco Angelini_. April 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
   <a href='https://github.com/XAIber-lab/truevislies'><img src='https://img.shields.io/badge/code-blue'></a>
 
+-  [__Combating Visual Misinformation: Automated Detection of Deceptive Chart Design Using Vision Transformers__](https://ieeexplore.ieee.org/abstract/document/11535336)
+
+  _Konrad J. Maciborski, Karol Struniawski, Adam Wierzbicki_. May 2026. <img src='https://img.shields.io/badge/IEEE Access-2026-green'>
+  <a href='https://huggingface.co/datasets/WieszczUrsynowa/HVPD-HarmfulVisualPlotsDataset'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
+
   
 ### Detection datasets
 
@@ -183,6 +188,7 @@ Misleading Data Visualizations__](https://arxiv.org/abs/2603.22368)
 | 2025 | **Misviz-synth** | ACL  | Synthetic | [Link](https://arxiv.org/abs/2508.21675) | [Link](https://tudatalib.ulb.tu-darmstadt.de/items/21f65047-c4d8-45a2-a717-e76f63dd0c33) | 
 | 2026 | **MisVisBench** | arXiv | Real-world | [Link](https://arxiv.org/abs/2603.22368) | [Link](https://huggingface.co/datasets/HarvardVCG/MisVisBench) |
 | 2026 | **True (VIS) Lies** |arXiv | Real-world | [Link](https://arxiv.org/abs/2604.01181) | [Link](https://github.com/XAIber-lab/truevislies) |
+| 2026 | **HVPD** | IEEE Access | Synthetic | [Link](https://ieeexplore.ieee.org/abstract/document/11535336) | [Link](https://huggingface.co/datasets/WieszczUrsynowa/HVPD-HarmfulVisualPlotsDataset) |
 
 ## Detecting visualization tampering
 
