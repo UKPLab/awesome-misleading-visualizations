@@ -80,6 +80,9 @@ The deceptive power of misleading visualizations has traditionally been studied 
   _Yanjie Zhang, Yafei Li, Rui Sheng, Zixin Chen, Yanna Lin, Huamin Qu, Lei Chen, Yushi Sun_. March 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
 
 
+ - [__Can Human Gaze Supervision Improve VLM Robustness to Misleading Data Visualizations?__](https://dl.acm.org/doi/10.1145/3811427.3811466)
+
+  _Mir Rayat Imtiaz Hossain, Enamul Hoque, Giuseppe Carenini_. June 2026. <img src='https://img.shields.io/badge/AVI-2026-green'>
 
 ### QA datasets
 
@@ -218,6 +221,11 @@ The following studies provide taxonomies of misleading visualizations and analyz
 - [__“I Came Across a Junk”: Understanding Design Flaws of Data Visualization from the Public’s Perspective__](https://dl.acm.org/doi/10.1109/TVCG.2024.3456341)
 
   _Xingyu Lan, Yu Liu_. January 2025. <img src='https://img.shields.io/badge/TVCG-2024-green'>
+
+- [__When AI Lies with Charts: Misleading Infographics in Text-to-Image Generation__](https://dl.acm.org/doi/10.1145/3811427.3811469)
+
+  _Mandy Keck, Andreas Stöckl_. June 2026. <img src='https://img.shields.io/badge/AVI-2026-green'>
+  
 
 ## Automated fact-checking with visualizations
 
