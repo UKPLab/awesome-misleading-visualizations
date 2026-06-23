@@ -95,7 +95,7 @@ The deceptive power of misleading visualizations has traditionally been studied 
 | 2025 | **Real-world** | ACL | MCQ | [Link](https://arxiv.org/abs/2502.20503) | [Link](https://github.com/UKPLab/arxiv2025-misleading-visualizations)| 
 | 2025 | **Misleading ChartQA** | EMNLP | MCQ | [Link](https://arxiv.org/abs/2503.18172) | [Link](https://github.com/CinderD/MisleadingChartQA) | 
 | 2025 | **Mahbub et al.** | VIS | Likert-scale | [Link](https://arxiv.org/abs/2508.09716) | [Link](https://github.com/vis-nlp/visDeception) |
-| 2026 | **AttackViz** | arXiv | Free-text |[Link](https://www.arxiv.org/abs/2601.12983) | [Link](https://github.com/insait-institute/chartAttack) |
+| 2026 | **AttackViz** | arXiv | Free-text |[Link](https://www.arxiv.org/abs/2601.12983) | [Link](https://huggingface.co/datasets/jgermanmx/AttackViz) |
 
 ## Misleading visualization detection and correction
 
