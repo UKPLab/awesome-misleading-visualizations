@@ -73,7 +73,7 @@ The deceptive power of misleading visualizations has traditionally been studied 
 
   _Jesus-Germán Ortiz-Barajas, Jonathan Tonglet, Vivek Gupta, Iryna Gurevych_. January 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
  <a href='https://github.com/insait-institute/chartAttack'><img src='https://img.shields.io/badge/code-blue'></a>
-
+ <a href='https://huggingface.co/datasets/jgermanmx/AttackViz'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
 
  - [__Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering__](https://arxiv.org/abs/2603.28583)
 
