@@ -71,9 +71,9 @@ The deceptive power of misleading visualizations has traditionally been studied 
 
  - [__ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation__](https://www.arxiv.org/abs/2601.12983)
 
-  _Jesus-Germán Ortiz-Barajas, Jonathan Tonglet, Vivek Gupta, Iryna Gurevych_. January 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
+  _Jesus-Germán Ortiz-Barajas, Jonathan Tonglet, Vivek Gupta, Iryna Gurevych_. January 2026. <img src='https://img.shields.io/badge/EMNLP-2026-green'>
  <a href='https://github.com/insait-institute/chartAttack'><img src='https://img.shields.io/badge/code-blue'></a>
- <a href='https://huggingface.co/datasets/jgermanmx/AttackViz'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
+ <a href='https://huggingface.co/datasets/INSAIT-Institute/AttackViz'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
 
  - [__Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering__](https://arxiv.org/abs/2603.28583)
 
@@ -100,7 +100,7 @@ The deceptive power of misleading visualizations has traditionally been studied 
 | 2025 | **CHARTOM** | arXiv | MCQ, free-text, rank | [Link](https://arxiv.org/abs/2408.14419v3) | Contact authors | 
 | 2025 | **Real-world** | ACL | MCQ | [Link](https://aclanthology.org/2026.acl-long.377/) | [Link](https://github.com/UKPLab/acl2026-misleading-visualizations)| 
 | 2025 | **Misleading ChartQA** | EMNLP | MCQ | [Link](https://aclanthology.org/2025.emnlp-main.695/) | [Link](https://github.com/CinderD/MisleadingChartQA) | 
-| 2026 | **AttackViz** | arXiv | Free-text |[Link](https://www.arxiv.org/abs/2601.12983) | [Link](https://huggingface.co/datasets/jgermanmx/AttackViz) |
+| 2026 | **AttackViz** | EMNLP | Free-text |[Link](https://www.arxiv.org/abs/2601.12983) | [Link](https://huggingface.co/datasets/jgermanmx/AttackViz) |
 | 2026 | **VisDeception** | arXiv | Likert-scale | [Link](https://arxiv.org/abs/2607.22600) | [Link](https://github.com/vis-nlp/visDeception) |
 
 ## Misleading visualization detection and correction
