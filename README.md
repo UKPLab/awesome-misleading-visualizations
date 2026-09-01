@@ -207,6 +207,10 @@ Other works introduce datasets and detection techniques for detecting visual edi
 
   _Sicheng Song, Yanjie Zhang, Zixin Chen, Huamin Qu, Changbo Wang, Chenhui Li_. December 2025. <img src='https://img.shields.io/badge/TVCG-2026-green'>
 
+- [__VizAnchor: Decoding Manipulation Intent from Tampering Visualizations via Dual-Anchor Reasoning__](https://arxiv.org/abs/2608.24535)
+
+  _Xiaotian Zhang, Huayuan Ye, Haiyang Zhang, Chenhui Li, Changbo Wang, Sicheng Song_. September 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
+
 
 ## Analyses and taxonomies
 
