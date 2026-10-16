@@ -90,6 +90,11 @@ The deceptive power of misleading visualizations has traditionally been studied 
   _Ridwan Mahbub, Mohammed Saidul Islam, Md Tahmid Rahman Laskar, Mizanur Rahman, Mir Tafseer Nayeem, Enamul Hoque_. June 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
  <a href='https://github.com/vis-nlp/visDeception'><img src='https://img.shields.io/badge/code-blue'></a>
 
+
+ - [__When Charts Deceive Web Agents: A Paired Benchmark for Misleading Visualization-Grounded Tasks__](https://arxiv.org/abs/2610.12823)
+
+  _Yisheng Li, Dongming Han, Hongkun Pan, Bingcheng Mao, Zijian Wang, Yunlong Mao, Wei Tong, Sheng Zhong_. October 2026. <img src='https://img.shields.io/badge/EMNLP-2026-green'>
+
 ### QA datasets
 
 | Year | Title | Venue | Type | Paper | Dataset | 
@@ -102,6 +107,7 @@ The deceptive power of misleading visualizations has traditionally been studied 
 | 2025 | **Misleading ChartQA** | EMNLP | MCQ | [Link](https://aclanthology.org/2025.emnlp-main.695/) | [Link](https://github.com/CinderD/MisleadingChartQA) | 
 | 2026 | **AttackViz** | EMNLP | Free-text |[Link](https://www.arxiv.org/abs/2601.12983) | [Link](https://huggingface.co/datasets/jgermanmx/AttackViz) |
 | 2026 | **VisDeception** | arXiv | Likert-scale | [Link](https://arxiv.org/abs/2607.22600) | [Link](https://github.com/vis-nlp/visDeception) |
+| 2026 | **MisVisAgentBench** | EMNLP 2026 | Agentic tasks | [Link](https://arxiv.org/abs/2610.12823) | - |
 
 ## Misleading visualization detection and correction
 
