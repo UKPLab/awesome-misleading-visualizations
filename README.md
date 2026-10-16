@@ -69,18 +69,18 @@ The deceptive power of misleading visualizations has traditionally been studied 
  <a href='https://github.com/vis-nlp/visDeception'><img src='https://img.shields.io/badge/code-blue'></a>
 
 
- - [__ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation__](https://www.arxiv.org/abs/2601.12983)
+- [__ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation__](https://www.arxiv.org/abs/2601.12983)
 
   _Jesus-Germán Ortiz-Barajas, Jonathan Tonglet, Vivek Gupta, Iryna Gurevych_. January 2026. <img src='https://img.shields.io/badge/EMNLP-2026-green'>
  <a href='https://github.com/insait-institute/chartAttack'><img src='https://img.shields.io/badge/code-blue'></a>
  <a href='https://huggingface.co/datasets/INSAIT-Institute/AttackViz'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
 
- - [__Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering__](https://arxiv.org/abs/2603.28583)
+- [__Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering__](https://arxiv.org/abs/2603.28583)
 
   _Yanjie Zhang, Yafei Li, Rui Sheng, Zixin Chen, Yanna Lin, Huamin Qu, Lei Chen, Yushi Sun_. March 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
 
 
- - [__Can Human Gaze Supervision Improve VLM Robustness to Misleading Data Visualizations?__](https://dl.acm.org/doi/10.1145/3811427.3811466)
+- [__Can Human Gaze Supervision Improve VLM Robustness to Misleading Data Visualizations?__](https://dl.acm.org/doi/10.1145/3811427.3811466)
 
   _Mir Rayat Imtiaz Hossain, Enamul Hoque, Giuseppe Carenini_. June 2026. <img src='https://img.shields.io/badge/AVI-2026-green'>
 
@@ -91,7 +91,7 @@ The deceptive power of misleading visualizations has traditionally been studied 
  <a href='https://github.com/vis-nlp/visDeception'><img src='https://img.shields.io/badge/code-blue'></a>
 
 
- - [__When Charts Deceive Web Agents: A Paired Benchmark for Misleading Visualization-Grounded Tasks__](https://arxiv.org/abs/2610.12823)
+- [__When Charts Deceive Web Agents: A Paired Benchmark for Misleading Visualization-Grounded Tasks__](https://arxiv.org/abs/2610.12823)
 
   _Yisheng Li, Dongming Han, Hongkun Pan, Bingcheng Mao, Zijian Wang, Yunlong Mao, Wei Tong, Sheng Zhong_. October 2026. <img src='https://img.shields.io/badge/EMNLP-2026-green'>
 
