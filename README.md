@@ -181,12 +181,12 @@ Misleading Data Visualizations__](https://arxiv.org/abs/2603.22368)
   _Harsh Nishant Lalai, Raj Sanjay Shah, Hanspeter Pfister, Sashank Varma, Grace Guo_. March 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
     <a href='https://huggingface.co/datasets/HarvardVCG/MisVisBench'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
   
--  [__True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies__](https://arxiv.org/abs/2604.01181)
+- [__True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies__](https://arxiv.org/abs/2604.01181)
 
   _Graziano Blasilli, Marco Angelini_. April 2026. <img src='https://img.shields.io/badge/arXiv-2026-green'>
   <a href='https://github.com/XAIber-lab/truevislies'><img src='https://img.shields.io/badge/code-blue'></a>
 
--  [__Combating Visual Misinformation: Automated Detection of Deceptive Chart Design Using Vision Transformers__](https://ieeexplore.ieee.org/abstract/document/11535336)
+- [__Combating Visual Misinformation: Automated Detection of Deceptive Chart Design Using Vision Transformers__](https://ieeexplore.ieee.org/abstract/document/11535336)
 
   _Konrad J. Maciborski, Karol Struniawski, Adam Wierzbicki_. May 2026. <img src='https://img.shields.io/badge/IEEE Access-2026-green'>
   <a href='https://huggingface.co/datasets/WieszczUrsynowa/HVPD-HarmfulVisualPlotsDataset'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
